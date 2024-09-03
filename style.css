@@ -1,0 +1,29 @@
+.one{
+    color: white;
+    background-color: hsl(188, 45%, 46%);
+}
+div{
+    color:white;
+    background-color: grey;
+}
+header{
+    background-color: #000;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
+.mission{
+    background-color: #f2f2f2;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    width: 200px;
+}
+.vision{
+    background-color:white ;
+    padding: 20px;
+    border-radius: 10px;
+    text-align:center ;
+    width: 200px;
+}
+
